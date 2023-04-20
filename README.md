@@ -9,3 +9,7 @@ const riyan = () => {
   }
 }
 ```
+<details>
+  <summary>Estudo</summary>
+  <p>Cursando Ads</p>
+</details>
