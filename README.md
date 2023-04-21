@@ -15,6 +15,8 @@
 
 
 
+
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> About Me 
@@ -66,7 +68,7 @@ const matheus = () => {
 
  <a href="https://tiktok.com/@hiro_0163"><img src="https://img.shields.io/badge/Tiktok NOME-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@NOME" /></a>
 
-  
+  <img src="https://discord-readme-badge.vercel.app/api?id=5MEUID" alt="Discord" align="right" width=320/>
   
 
 -->
