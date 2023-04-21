@@ -30,14 +30,19 @@ const matheus = () => {
 }
 ```
 
-## stars
-
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  
 ![Anurag's GitHub stats blue-green](https://github-readme-stats.vercel.app/api?username=MattheusWil&show_icons=true&theme=midnight-purple)
     
-[![Top Langs midnight-purple](https://github-readme-stats.vercel.app/api/top-langs/?username=MattheusWil&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
     
  [![SubadraBro highcontrast](https://github-readme-streak-stats.herokuapp.com/?user=MattheusWil&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)   
+  [![Top Langs midnight-purple](https://github-readme-stats.vercel.app/api/top-langs/?username=MattheusWil&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
  
+  <br/>
+</details>
+
  
 
 <!--
