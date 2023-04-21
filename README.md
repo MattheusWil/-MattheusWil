@@ -43,8 +43,8 @@ const matheus = () => {
   <br/>
 </details>
 
- 
 
+  
 <!--
 # Visitor 
 <p align="center">
@@ -63,6 +63,10 @@ const matheus = () => {
   <a href="https://t.me/BOME"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://youtube.com/channel/UCD_w05gKF5F_5BNPABShNyQ"><img src="https://img.shields.io/badge/YouTube-NOME-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCD_w05gKF5F_5BNPABShNyQ" /><br>
   <a name=FatihArridho&label=VIEWS&style=flat-square&color=orange" />
+
+ <a href="https://tiktok.com/@hiro_0163"><img src="https://img.shields.io/badge/Tiktok NOME-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@NOME" /></a>
+
+  
   
 
 -->
