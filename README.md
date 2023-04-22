@@ -25,7 +25,7 @@ const matheus = () => {
   return {
     pronouns: "He" | "Him",
     country: "Brazil",
-    bio: "Only god can judge me."
+    bio: "Only god can judge me.",
     langs: "portuguese and english"
   }
 }
