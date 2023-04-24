@@ -1,8 +1,22 @@
 
+  ### Abaut me...
+```js
+const matheus = () => {
+  return {
+    pronouns: "He" | "Him",
+    country: "Brazil",
+    bio: "Only god can judge me.",
+    langs: "portuguese and english"
+  }
+}
+```
+
+
+
 <details>
   
-  <summary>Estudo</summary>
-  <p>Cursando Ads</p>
+  <summary>Focus</summary>
+  <p>Go to college: Systems Analysis and Development</p>
   
 - Studying at [***Uninter University***]
 - Atleast Good with **Javascript, html, css ,python and nodejs** 
@@ -21,17 +35,12 @@
   
 -->
 
-  
-```js
-const matheus = () => {
-  return {
-    pronouns: "He" | "Him",
-    country: "Brazil",
-    bio: "Only god can judge me.",
-    langs: "portuguese and english"
-  }
-}
-```
+
+
+
+
+
+
 ### Languages and Tools
 
 
