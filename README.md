@@ -15,10 +15,12 @@
 
 
 
-
+<!--
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> About Me 
 <p align="center">
   
+-->
+
   
 ```js
 const matheus = () => {
