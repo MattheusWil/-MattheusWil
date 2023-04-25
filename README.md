@@ -20,7 +20,7 @@ const matheus = () => {
   
 - Studying at [***Uninter University***]
 - Atleast Good with **Javascript, html, css ,python and nodejs** 
-
+- Studying design with figma
 - Mainly Focus on making Whatsapp Bots
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3A2CF7E1&center=true&vCenter=true&width=435&lines=Fallow+me+)](https://git.io/typing-svg)
