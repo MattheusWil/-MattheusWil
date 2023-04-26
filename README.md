@@ -4,6 +4,7 @@
 const matheus = () => {
   return {
     pronouns: "He" | "Him",
+    job: "Student",
     country: "Brazil",
     bio: "Only god can judge me.",
     langs: "portuguese and english"
