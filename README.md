@@ -50,14 +50,15 @@ const matheus = () => {
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
-  
-![Anurag's GitHub stats blue-green](https://github-readme-stats.vercel.app/api?username=MattheusWil&show_icons=true&theme=midnight-purple)
-    
 
     
  [![SubadraBro highcontrast](https://github-readme-streak-stats.herokuapp.com/?user=MattheusWil&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)   
-  [![Top Langs midnight-purple](https://github-readme-stats.vercel.app/api/top-langs/?username=MattheusWil&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+ [![MattheusWil GitHub Stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=MattheusWil&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
  
+[![MattheusWil Top Languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs?username=MattheusWil&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+  
+  
+  
   <br/>
 </details>
 
